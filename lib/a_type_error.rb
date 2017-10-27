@@ -1,4 +1,4 @@
  1 + 1 do
-   
- end
-1 + "is the loneliest number"
+
+ puts "2"
+1 + "is the loneliest number" end
